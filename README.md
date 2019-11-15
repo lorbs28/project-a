@@ -1,3 +1,3 @@
-* Project B
+* Project A
 
-Project B is similar to Project A, but more complex in terms of project structure.  Project B will be used for learning more complex technologies and processes.
+Project A is a code base that will be used to teach Python, SQL, and anything else.  
