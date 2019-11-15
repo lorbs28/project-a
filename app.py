@@ -10,8 +10,8 @@ def health():
         return (str(e))
 
 @app.route('/add/<first>/<second>')
-def add(int(first), int(second)):
-    return first + second
+def add(first, second):
+    return int(first) + int(second)
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5000)
